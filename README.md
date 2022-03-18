@@ -1,4 +1,6 @@
-# Hun
+# Hungarian (hun)
+
+Contains Hungarian paradigms including: nouns, adjectives, and verbs.
 
 
 ## Data
