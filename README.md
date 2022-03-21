@@ -19,8 +19,8 @@ Source:
 
 - Christo Kirov (conversion)
 - Ryan Cotterell (conversion)
-- Gabor Bella (validation)
 - Judit Acs (validation)
+- Gabor Bella (validation)
 - Khuyagbaatar Batsuren (conversion)
 
 
