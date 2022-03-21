@@ -15,6 +15,14 @@ Source:
 - **Verb lemmas:** 4,572
 - **Total inflectional forms:** 1,036,922
 
+## Contributors
+
+- Christo Kirov (conversion)
+- Ryan Cotterell (conversion)
+- Gabor Bella (validation)
+- Judit Acs (validation)
+- Khuyagbaatar Batsuren (conversion)
+
 
 ## Language Specifics
 LGSPEC1 - Non-attributive possessive singular for noun inflections<br />
