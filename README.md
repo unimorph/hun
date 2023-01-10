@@ -7,6 +7,7 @@ Contains Hungarian paradigms including: nouns, adjectives, and verbs.
 
 Source:
 - `hun`: English Wiktionary
+- `hun.args`: a UniMorph 4.0 version of `hun`
 
 ## Statistics
 
